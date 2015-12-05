@@ -167,8 +167,8 @@ Alle inhoud is copyright van hun respectievelijke eigenaars.</description>
 
 <addon id="repository.nlview" name="NL View" version="1.0" provider-name="NL View">
 	<extension point="xbmc.addon.repository" name="NL View Repository">
-		<info compressed="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml.md5</checksum>
+		<info compressed="true">https://raw.githubusercontent.com/NLViewaddon/NLView/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/NLViewaddon/NLView/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
